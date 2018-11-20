@@ -1,0 +1,100 @@
+Marianna;-15.846656,-48.14844600000001;Engenharia Mecatrônica;true
+Mira;-15.671406,-48.094236;Engenharia Agrícola;true
+Jillene;-15.557766,-47.776726000000004;Engenharia Aeronáutica;false
+Joceline;-15.704376,-48.025266;Engenharia de Petróleo;true
+Penny;-16.006156,-48.095786000000004;Oceanografia;false
+Veradis;-15.897566,-47.651686000000005;Física;true
+Lorianna;-15.754086,-47.465226;Segurança do Trabalho;false
+Chere;-15.921806,-47.962326000000004;Engenharia de Telecomunicações;true
+Tybie;-16.045966,-47.710286;Agronegócios;false
+Caren;-15.963786,-47.675116;Engenharia de Controle e Automação;false
+Lorelei;-15.505676,-47.519346000000006;Engenharia Agrícola;false
+Fayina;-15.979426,-47.674996;Nutrição;true
+Alysa;-15.580136,-47.426296;Ciências Atuárias;true
+Korie;-15.771066,-47.752476;Desenho Industrial;true
+Robinett;-15.967676,-47.546656000000006;Engenharia Aeronáutica;false
+Bili;-15.745076,-48.211776;Biologia;true
+Heida;-15.784276,-47.534026000000004;Farmácia;false
+Kettie;-15.759556,-48.018276;Odontologia;false
+Tim;-15.643026,-47.724546000000004;Farmácia;false
+Emlyn;-15.511126,-47.755746;Sistemas de Informação;false
+Maggie;-15.753936,-47.772196;Química;false
+Carmita;-15.875156,-47.772536;Enfermagem;false
+Dasi;-15.889926,-47.955556;Engenharia da Computação;false
+Gnni;-15.935796,-47.904486000000006;Secretariado;false
+Lida;-15.552536,-48.197436;Engenharia Aeronáutica;true
+Amelie;-15.502346,-48.197946;Arquitetura;false
+Reine;-15.761026,-47.794646;Gestão Financeira;true
+Marcille;-16.003506,-47.923336000000006;Processos Gerenciais;false
+Yetty;-15.842846,-47.587256000000004;Oceanografia;true
+Allianora;-15.747976,-47.708376;Física;false
+Wilhelmine;-15.773186,-48.090966;Engenharia Ambiental;false
+Vania;-15.622126,-48.203726;Ciências Contábeis;true
+Debera;-15.981426,-47.909196;Educação Física;true
+Elsie;-16.023306,-48.13521600000001;Direito;false
+Shannon;-15.513576,-47.60837600000001;Engenharia de Agrimensura;false
+Krissie;-15.524076,-47.625606000000005;Engenharia de Agrimensura;true
+Janella;-15.547546,-47.912086;Odontologia;true
+Lavena;-15.611016,-47.797216000000006;Geologia;false
+Tierney;-15.750216,-47.434876;Mecânica Industrial;true
+Leonie;-15.982166,-47.599606;Ciência da Computação;false
+Mildred;-15.595716,-47.765346;Engenharia Mecatrônica;false
+Dniren;-15.828366,-47.609156000000006;Ciência da Computação;true
+Renelle;-15.506366,-47.648786;Engenharia Biomédica;true
+Jana;-15.714806,-48.126506000000006;Biotecnologia;true
+Karly;-15.680996,-47.622876000000005;Engenharia Aeronáutica;true
+Giustina;-15.722186,-47.776666000000006;Economia;true
+Rosmunda;-15.752946,-47.936876000000005;Engenharia Agrícola;true
+Brigit;-15.917586,-48.030416;Serviço Social;true
+Koral;-15.598576,-47.755096;Publicidade e Propaganda;false
+Lina;-15.733856,-47.794106000000006;Comunicação Social;false
+Felicle;-15.963196,-47.463276;Oceanografia;true
+Terrie;-15.658176,-48.086466;Fotografia;true
+Rosalyn;-15.951326,-47.566096;Ciências Biológicas;false
+Gale;-16.049766,-48.07441600000001;Física;false
+Alfy;-15.606036,-47.656596;Multimídia;false
+Elga;-15.827746,-47.491586000000005;Geografia;false
+Ericka;-15.740826,-47.480766;Antropologia;false
+Amandy;-15.592046,-47.81192600000001;Dança;true
+Adan;-15.729786,-47.495996000000005;Psicologia;false
+Koo;-15.668926,-47.473746000000006;Negócios Imobiliários;false
+Elie;-15.682046,-48.210806000000005;Engenharia de Materiais;false
+Mollie;-15.826946,-47.444076;Biblioteconomia;true
+Sherry;-15.974526,-47.59120600000001;Ciências Atuárias;false
+Raf;-16.019786,-47.787086;Agronomia;false
+Christen;-15.998016,-47.567806000000004;Processos Gerenciais;false
+Alayne;-15.506656,-48.162316000000004;Engenharia de Materiais;true
+Ardra;-15.682036,-48.077556;Ciências Políticas;true
+Devora;-16.040366,-47.488586000000005;Meteorologia;true
+Matilda;-15.869436,-47.975866;Negócios Imobiliários;false
+Giovanna;-15.729356,-47.568586;Relações Públicas;false
+Bernie;-15.632646,-48.193436000000005;Farmácia;false
+Helena;-15.546806,-47.854396;Secretariado;true
+Carena;-15.883906,-47.821426;Engenharia Metalúrgica;false
+Torie;-15.735576,-47.552006000000006;Arquivologia;true
+Aurora;-15.891156,-48.20391600000001;Química;true
+Kat;-15.818956,-47.899026000000006;Ciências Contábeis;false
+Aloysia;-15.557426,-47.582536000000005;Radiologia;true
+Tatum;-15.582246,-47.552106;Letras;false
+Cherice;-15.595766,-47.752526;Estética;false
+Nanny;-15.564356,-47.947706000000004;Letras;false
+Karrah;-15.612246,-47.51162600000001;Engenharia da Computação;false
+Rae;-15.658586,-47.500946000000006;Gestão Comercial;true
+Greer;-16.009416,-47.508126000000004;Engenharia Aeronáutica;false
+Merrili;-15.818246,-47.749446000000006;Oceanografia;false
+Linda;-15.882496,-47.923276;Engenharia Aeronáutica;true
+Lindi;-15.666116,-47.996036000000004;Agronomia;true
+Dorella;-15.504356,-47.877436;Arquitetura;false
+Meagan;-15.787446,-47.864526000000005;Biblioteconomia;false
+Adeline;-15.867256,-47.746166;Ciências Contábeis;true
+Amanda;-15.542736,-48.104516000000004;Educação Física;true
+Agretha;-16.034746,-47.94086600000001;Pedagogia;true
+Tammara;-15.519246,-47.425006;Física;true
+Sheree;-15.521016,-47.680376;Processos Gerenciais;false
+Pia;-15.990906,-48.173006;Teatro;false
+Chad;-15.564636,-48.126426;Enfermagem;true
+Leeanne;-15.511636,-48.035516;Educação Física;true
+Helenka;-15.593996,-48.201616;Geografia;false
+Carolyne;-15.638326,-47.787216;Medicina;true
+Janine;-15.885156,-48.122316000000005;Artes Visuais;false
+Stephanie;-15.511946,-48.202076000000005;Engenharia de Pesca;true

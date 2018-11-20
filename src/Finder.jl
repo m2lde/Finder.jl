@@ -1,18 +1,15 @@
 __precompile__()
+
 """
 Finder is a module that find freelancers near
 """
 module Finder
 
-using MyGraph, Geodesy, DataStructures
+using MyGraph, Person, DataStructures, Geodesy
 
-import Base: ==
-import Geodesy: distance
-
-export  FinderGraph, People,
+export  FinderGraph, Person,
         availableworkers, availableworkersbyprof, findworkers!
 
-include("people.jl")
 include("findergraph.jl")
 
 end
