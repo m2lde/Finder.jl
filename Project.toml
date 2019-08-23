@@ -1,0 +1,10 @@
+name = "Finder"
+uuid = "b65c8d72-c5b9-11e9-2505-9bfd50587d9b"
+authors = ["quaqix <m2l_0@outlook.com>"]
+version = "0.1.0"
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Geodesy = "0ef565a4-170c-5f04-8de2-149903a85f3d"
+MyGraph = "a37731f8-c5b9-11e9-01c8-5f0a1020647f"
+Person = "1dd124a4-c5ba-11e9-286a-2dc78419064b"
